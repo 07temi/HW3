@@ -11,6 +11,7 @@
 		7DF31AD727CA3AC200369E3D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF31AD627CA3AC200369E3D /* ContentView.swift */; };
 		7DF31AD927CA3AC300369E3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DF31AD827CA3AC300369E3D /* Assets.xcassets */; };
 		7DF31ADC27CA3AC300369E3D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DF31ADB27CA3AC300369E3D /* Preview Assets.xcassets */; };
+		7DF31AE727CA51B600369E3D /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF31AE627CA51B600369E3D /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7DF31AD627CA3AC200369E3D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7DF31AD827CA3AC300369E3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7DF31ADB27CA3AC300369E3D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7DF31AE627CA51B600369E3D /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7DF31AD427CA3AC200369E3D /* HW3App.swift */,
 				7DF31AD627CA3AC200369E3D /* ContentView.swift */,
+				7DF31AE627CA51B600369E3D /* SliderView.swift */,
 				7DF31AD827CA3AC300369E3D /* Assets.xcassets */,
 				7DF31ADA27CA3AC300369E3D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7DF31AE727CA51B600369E3D /* SliderView.swift in Sources */,
 				7DF31AD727CA3AC200369E3D /* ContentView.swift in Sources */,
 				7DF31AD527CA3AC200369E3D /* HW3App.swift in Sources */,
 			);

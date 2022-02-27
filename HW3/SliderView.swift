@@ -17,7 +17,6 @@ struct SliderView: UIViewRepresentable {
     func makeUIView(context: Context) -> UISlider {
         let slider = UISlider()
         
-        slider.value = 0
         slider.minimumValue = 0
         slider.maximumValue = 100
         slider.addTarget(context.coordinator,
